@@ -1,6 +1,6 @@
 [project]
 name = "py-minimum-excluding-set"
-version = "0.1.0"
+version = "0.1.1"
 description = "Pure-Python structure tracking non-negative integers and reporting the smallest missing value"
 requires-python = ">=3.10"
 dependencies = []
